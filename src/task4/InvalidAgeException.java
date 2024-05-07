@@ -1,6 +1,6 @@
 package task4;
 
-//Question no 1
+//Question no 2
 
 public class InvalidAgeException extends Exception{
 
